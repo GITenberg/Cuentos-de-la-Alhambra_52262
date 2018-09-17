@@ -1,0 +1,42 @@
+_repo: Cuentos-de-la-Alhambra_52262
+_version: 0.0.1
+alternative_title: The Alhambra. Spanish
+contributor:
+  translator:
+    agent_name: Lamarca, Luis
+    aliases:
+    - Lamarca, Don Luis
+    - D. L. L.
+    gutenberg_agent_id: '46748'
+    url: http://www.gutenberg.org/2009/agents/46748
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2016-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52262'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alhambra (Granada, Spain) -- Fiction'
+- !lcsh 'Spain -- Social life and customs'
+- !lcsh 'Spain -- Social life and customs -- Fiction'
+- !lcsh 'Palaces -- Spain -- Granada -- Fiction'
+- !lcsh 'Irving, Washington, 1783-1859 -- Travel -- Spain'
+- !lcsh 'Palaces -- Spain -- Granada'
+- !lcc 'PS'
+- !lcc 'DP'
+- !lcsh 'Alhambra (Granada, Spain)'
+- GITenberg
+title: Cuentos de la Alhambra
+url: http://www.gutenberg.org/ebooks/52262
