@@ -1,5 +1,5 @@
 _repo: Cuentos-de-la-Alhambra_52262
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Alhambra. Spanish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - D. L. L.
     gutenberg_agent_id: '46748'
     url: http://www.gutenberg.org/2009/agents/46748
+covers:
+- cover_type: archival
+  image_path: 52262-h/images/cover.jpg
 creator:
   author:
     agent_name: Irving, Washington
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52262#Cuentos-de-la-Alhambra
 gutenberg_issued: '2016-06-07'
 gutenberg_type: Text
 identifiers:
